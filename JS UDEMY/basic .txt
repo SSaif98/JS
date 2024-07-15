@@ -1,0 +1,10 @@
+1- Open console in chrome : contol + shift + j
+2- JS is high level, object-oriented, multi paradigm programming language.
+    --Multi Paradigm: We can use different style of programming.
+        -Imperitive
+        -Declarative
+
+https://github.com/jonasschmedtmann/complete-javascript-course       
+
+
+<script src='script.js'></script>
